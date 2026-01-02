@@ -1,5 +1,4 @@
-﻿# daylyou-mobile
-# Daylyou Mobile
+﻿# Daylyou Mobile
 
 <div align="center">
   <h3>Uma aplicação de registo consciente da vida quotidiana</h3>
